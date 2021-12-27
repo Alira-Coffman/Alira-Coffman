@@ -9,7 +9,8 @@
 
 
 ### Checkout my Educational Blog
-Interested in learning how to code? Maybe there is a topic you want to discover. Checkout Clarifying Code
+Interested in learning how to code? Maybe there is a topic you want to discover. 
+#### Most Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript: Exploring Array Methods](https://aliracoffman.com/2021/12/10/javascript-exploring-array-methods/)
 - [JavaScript: FUNctions](https://aliracoffman.com/2021/11/28/javascript-functions/)
