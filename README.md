@@ -8,6 +8,10 @@
 - 😄 Pronouns: She/Her/They
 
 
+### Checkout my Educational Blog
+Interested in learning how to code? Maybe there is a topic you want to discover. Checkout Clarifying Code
+
+
 ### Technologies
 ___
 
