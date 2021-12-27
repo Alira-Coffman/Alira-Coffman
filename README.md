@@ -3,7 +3,6 @@
 </p>
 
 ## I am a Software Engineer, Coding Educator, and Hardware Enthusist 
-[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](aliracoffman.com)
 
 - 💬 Ask me about coding bootcamps, transitioning careers to tech
 - 📫 How to reach me: [email](mailto:aliradawn@gmail.com)
