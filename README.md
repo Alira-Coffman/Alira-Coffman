@@ -1,4 +1,6 @@
-### Hi there 👋
+ <p align="center">
+  <img src="https://aliracoffmancom.files.wordpress.com/2021/10/cropped-untitled-2.png">
+</p>
 
 ## I am a Software Engineer, Coding Educator, and Hardware Enthusist 
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](aliracoffman.com)
