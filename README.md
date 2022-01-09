@@ -13,11 +13,11 @@
 Interested in learning how to code? Maybe there is a topic you want to discover. 
 #### 📙 Most Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Driven Development &amp; JavaScript](https://aliracoffman.com/2022/01/09/test-driven-development-javascript/)
 - [JavaScript: Exploring Array Methods](https://aliracoffman.com/2021/12/10/javascript-exploring-array-methods/)
 - [JavaScript: FUNctions](https://aliracoffman.com/2021/11/28/javascript-functions/)
 - [JavaScript Array Basics](https://aliracoffman.com/2021/11/26/javascript-array-basics/)
 - [JavaScript: Loops](https://aliracoffman.com/2021/11/15/javascript-loops/)
-- [JavaScript: Variables](https://aliracoffman.com/2021/11/07/javascript-variables/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies
