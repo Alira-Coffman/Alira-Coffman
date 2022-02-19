@@ -2,7 +2,7 @@
   <img src="https://aliracoffmancom.files.wordpress.com/2021/10/cropped-untitled-2.png">
 </p>
 
-## I am a Software Engineer, Coding Educator, and Hardware Enthusist 
+## 👋 I am a Software Engineer, Coding Educator, and Hardware Enthusist 
 
 - 💬 Ask me about coding bootcamps, transitioning careers to tech
 - 📫 How to reach me: [email](mailto:aliradawn@gmail.com)
