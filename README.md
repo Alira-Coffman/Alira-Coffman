@@ -1,7 +1,7 @@
  <p align="center">
   <img src="https://aliracoffmancom.files.wordpress.com/2021/10/cropped-untitled-2.png">
 </p>
-test
+
 ## 👋 I am a Senior Software Engineer, Coding Educator, and Hardware Enthusist 
 
 - 💬 Ask me about coding bootcamps, transitioning careers to tech
